@@ -31,7 +31,7 @@
     <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-java8-compat_2.11:0.7.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.11:1.1.1:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.11.12:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.25:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:2.0.13:jar" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="edf1ba67-d9a2-4096-b960-6aa00020673f" />

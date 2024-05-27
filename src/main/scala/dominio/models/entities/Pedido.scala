@@ -7,5 +7,4 @@ class Pedido {
                    quantityOrdered: Int,
                    orderDate: String,
                    orderStatus: String)
-
 }
